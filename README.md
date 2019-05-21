@@ -10,31 +10,31 @@
 2. Usage in your .eslintrc:
 
     ```
-    { "extends": "eslint-config-lambdas" }
+    { "extends": "lambdas" }
     ```
 
     **OR**, if you are using the .yml:
     ```yml
     extends:
-      - 'eslint-config-lambdas'
+      - 'lambdas'
     ```
 
 3. Use in Vue:
     ```
-    { "extends": "eslint-config-lambdas/vue" }
+    { "extends": "lambdas/vue" }
     ```
 
     **OR**, if you are using the .yml:
     ```yml
     extends:
-      - 'eslint-config-lambdas/vue'
+      - 'lambdas/vue'
     ```
 
 4. Use in XO:
     ```
     "xo": {
       "extends": [
-        "eslint-config-lambdas"
+        "lambdas"
       ]
     },
     ```
