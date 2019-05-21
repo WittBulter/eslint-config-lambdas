@@ -36,5 +36,5 @@ module.exports = {
   
   rules: rules,
   
-  extends: ['plugin:vue/recommended'],
+  extends: ['plugin:vue/essential'],
 }

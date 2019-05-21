@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-lambdas",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "eslint for lambdas style",
   "main": "index.js",
   "author": "WittBulter (lambdas.dev@gmail.com)",
