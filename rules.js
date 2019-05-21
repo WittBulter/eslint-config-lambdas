@@ -1,5 +1,14 @@
 
 module.exports = {
+  'unicorn/filename-case': [0],
+  'unicorn/explicit-length-check': [0],
+  'unicorn/no-console-spaces': [0],
+  'padding-line-between-statements': [0],
+  'no-script-url': [0],
+  'no-alert': [0],
+  'no-floating-decimal': [0],
+  'prefer-object-spread': [0],
+  'no-mixed-operators': [0],
   'prefer-promise-reject-errors': [0],
   'no-negated-condition': [0],
   'operator-linebreak': [1, 'before'],
