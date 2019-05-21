@@ -1,5 +1,23 @@
 
 module.exports = {
+  'prefer-promise-reject-errors': [0],
+  'no-negated-condition': [0],
+  'operator-linebreak': [1, 'before'],
+  'unicorn/escape-case': [0],
+  'prefer-destructuring': [0],
+  'capitalized-comments': [0],
+  'space-unary-ops': [0],
+  'import/no-unresolved': [0, 'nerver'],
+  'import/no-unassigned-import': [0, 'nerver'],
+  'import/order': [0, 'nerver'],
+  'new-cap': [1, {
+    newIsCap: true,
+    capIsNew: false,
+  }],
+  'no-implicit-coercion': [0],
+  'array-element-newline': [0],
+  'array-callback-return': [0],
+  'no-return-assign': [1, 'except-parens'],
   'curly': [1, 'multi-line'],
   'semi': [0, 'never'],
   'no-console': [0],
