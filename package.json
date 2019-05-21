@@ -1,0 +1,22 @@
+{
+  "name": "eslint-config-lambdas",
+  "version": "0.0.1",
+  "description": "eslint for lambdas style",
+  "main": "index.js",
+  "author": "WittBulter (lambdas.dev@gmail.com)",
+  "license": "MIT",
+  "repository": "https://github.com/WittBulter/eslint-config-lambdas",
+  "homepage": "https://github.com/WittBulter/eslint-config-lambdas#readme",
+  "scripts": {},
+  "files": [
+    "index.js",
+    "rules.js",
+    "vue.js",
+    "README.md"
+  ],
+  "devDependencies": {},
+  "dependencies": {
+    "eslint-plugin-markdown": "^1.0.0",
+    "eslint-plugin-vue": "^5.2.2"
+  }
+}
