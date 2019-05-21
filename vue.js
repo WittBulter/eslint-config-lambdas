@@ -11,6 +11,10 @@ module.exports = {
     },
   },
   
+  ecmaFeatures: {
+    legacyDecorators: true,
+  },
+  
   env: {
     node: true,
     browser: true,
