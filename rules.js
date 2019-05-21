@@ -1,5 +1,6 @@
 
 module.exports = {
+  'curly': [1, 'multi-line'],
   'semi': [0, 'never'],
   'no-console': [0],
   'no-global-assign': [0],
@@ -16,6 +17,9 @@ module.exports = {
   'no-multi-spaces': [1],
   'no-sparse-arrays': [1],
   'no-constant-condition': [1],
+  'no-unused-expressions': [1, {
+    allowShortCircuit: true,
+  }],
   'quotes': [1, 'single'],
   'eol-last': [1, 'always'],
   'linebreak-style': [1, 'unix'],
@@ -23,6 +27,7 @@ module.exports = {
   'no-cond-assign': [1, 'except-parens'],
   'comma-dangle': [1, 'always-multiline'],
   'space-infix-ops': [1, { 'int32Hint': true }],
+  'object-curly-spacing': [1, 'always'],
   'keyword-spacing': [1, { before: true, after: true }],
   'lines-around-comment': [1, {
     'beforeBlockComment': true,
