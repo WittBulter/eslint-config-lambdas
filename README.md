@@ -44,6 +44,7 @@
 ### Recommends
 
   - [tslint-config-lambdas](https://github.com/WittBulter/tslint-config-lambdas)
+  - [eslint-config-ts-lambdas](https://github.com/WittBulter/eslint-config-ts-lambdas)
 
 <br/>
 
