@@ -50,6 +50,7 @@ module.exports = {
     allowShortCircuit: true,
   }],
   'quotes': [2, 'single'],
+  'quote-props': [2, 'consistent'],
   'eol-last': [2, 'always'],
   'linebreak-style': [1, 'unix'],
   'indent': [1, 2, { 'SwitchCase': 1 }],
