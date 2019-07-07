@@ -34,7 +34,9 @@ module.exports = {
   
   plugins: ['vue'],
   
-  rules: rules,
-  
   extends: ['plugin:vue/essential'],
+  
+  rules: Object.assign({}, rules, {
+    "vue/no-side-effects-in-computed-properties": 0,
+  }),
 }
