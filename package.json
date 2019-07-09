@@ -17,6 +17,6 @@
   "devDependencies": {},
   "dependencies": {
     "eslint-plugin-markdown": "^1.0.0",
-    "eslint-plugin-vue": "^5.2.2"
+    "eslint-plugin-vue": "^5.2.3"
   }
 }
