@@ -27,6 +27,7 @@ module.exports = {
   }],
   'no-implicit-coercion': [0],
   'no-new': [0],
+  'one-var': [0],
   'array-element-newline': [0],
   'array-callback-return': [0],
   'no-return-assign': [2, 'except-parens'],
