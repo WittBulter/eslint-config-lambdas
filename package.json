@@ -1,9 +1,9 @@
 {
   "name": "eslint-config-lambdas",
-  "version": "0.2.5",
+  "version": "0.3.0",
   "description": "eslint for lambdas style",
   "main": "index.js",
-  "author": "unix (lambdas.dev@gmail.com)",
+  "author": "unix (unix.bio@gmail.com)",
   "license": "MIT",
   "repository": "https://github.com/unix/eslint-config-lambdas",
   "homepage": "https://github.com/unix/eslint-config-lambdas#readme",
@@ -16,7 +16,7 @@
   ],
   "devDependencies": {},
   "dependencies": {
-    "eslint-plugin-markdown": "^1.0.0",
-    "eslint-plugin-vue": "^5.2.3"
+    "eslint-plugin-markdown": "^1.0.2",
+    "eslint-plugin-vue": "^6.2.2"
   }
 }
